@@ -1,0 +1,6 @@
+
+vless://31609cee-6337-43ab-8abd-f523d8a82bfb@14.102.146.227:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=speedtest.maxis.com.my#vr06-maxis-boost
+vless://31609cee-6337-43ab-8abd-f523d8a82bfb@google.com.vr06.vpnje.com:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=mydigiapp.digi.com.my#vr06-digi-social
+vless://31609cee-6337-43ab-8abd-f523d8a82bfb@google.com.vr06.vpnje.com:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=vault21.digi.com.my#vr06-digi-x
+vless://31609cee-6337-43ab-8abd-f523d8a82bfb@wap.u.com.my.vr06.vpnje.com:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=wap.u.com.my#vr06-umobile-x
+vless://31609cee-6337-43ab-8abd-f523d8a82bfb@14.102.146.227:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=14.102.146.227#vr06-celcom-boost
